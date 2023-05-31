@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Link to repo](https://github.com/Ig-Matrix/-Frontend-Mentor---Clipboard-landing-page-solution)
+-   Live Site URL: [link to live site](https://ig-matrix.github.io/-Frontend-Mentor---Clipboard-landing-page-solution/)
 
 ## My process
 
